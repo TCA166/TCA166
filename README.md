@@ -4,7 +4,7 @@ In fact I know a fair bit about Python's inner workings because I worked a fair 
 Professionally I am a fullstack Python/PHP webdev.  
 A lot of my free time projects are video game oriented, and feel free to contribute to them.  
 
-## some of the cool things I did
+## Some of the cool things I did
 
 In my free time I do plenty of programming in a variety of languages, here are the highlights:
 
