@@ -17,6 +17,7 @@ In my free time I do plenty of programming in a variety of languages, here are t
 
 ### Web development
 
+- [gitWebhook](https://github.com/TCA166/gitWebhook) is a Python module available on PyPI that provides flask blueprints for receiving and processing GitHub and GitLab webhooks
 - [openCMS](https://github.com/TCA166/openCMS) is a Python class based framework meant to generate flask based webapps implementing basic CRUD operations
 - [fwd](https://github.com/TCA166/fwd) is a PHP webapp for displaying data from this one specific road quality measurment device
 - [cdp](https://github.com/TCA166/cdp) is a Java webapp backend I wrote a while back as a part of a recruitment process
