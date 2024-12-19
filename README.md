@@ -1,8 +1,5 @@
 I'm a polish computer science student.  
-For some unknown reason C appeals to me, but when I need to get stuff done I program in other languages like Python or C#.  
-In fact I know a fair bit about Python's inner workings because I worked a fair bit with the Python C API.  
-Professionally I am a fullstack Python/PHP webdev.  
-A lot of my free time projects are video game oriented, and feel free to contribute to them.  
+I really like low level programming in C or Rust, but profesionally I am a web developer.
 
 ## Some of the cool things I did
 
